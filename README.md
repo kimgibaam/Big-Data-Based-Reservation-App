@@ -4,4 +4,6 @@
 - To be specific, this project is a big data-based electric car charging reservation system
 - But, can be applied to a different reservation system
 
-![수상 기념사진](https://user-images.githubusercontent.com/53115254/93074861-eaff2e80-f6bf-11ea-8492-145a4c03b9d9.jpg)
+![수상 기념사진 (1)](https://user-images.githubusercontent.com/53115254/93074965-16821900-f6c0-11ea-9545-0517a5e96af4.jpg)
+
+
