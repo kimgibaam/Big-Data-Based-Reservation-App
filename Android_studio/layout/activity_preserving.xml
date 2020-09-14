@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Preserving"
+    android:padding="18dp"
+    android:background="@drawable/preserve"
+    android:orientation="vertical">
+
+
+    <EditText
+        android:id="@+id/editText_preseved_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="65dp"
+        android:inputType="text" />
+
+        <EditText
+            android:layout_marginTop="50dp"
+            android:inputType="text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText_preseved_phone" />
+
+        <EditText
+            android:layout_marginTop="50dp"
+            android:id="@+id/editText_preseved_p_time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text" />
+
+        <Button
+            android:layout_marginTop="25dp"
+            android:id="@+id/button_preseved_preserved"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:background="#00ff0000"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            />
+
+        <TextView
+            android:id="@+id/textView_preserved_result"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:layout_marginTop="20dp"
+            android:textColor="#000000"
+            android:layout_gravity="center"
+            />
+
+
+</LinearLayout>

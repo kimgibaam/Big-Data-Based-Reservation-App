@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ShowChart"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="@drawable/chart">
+
+
+    <Button
+        android:layout_marginTop="43dp"
+        android:id="@+id/button_show_preserved"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="#00ff0000"
+        android:layout_marginLeft="22dp"
+        android:layout_marginRight="22dp"
+        />
+
+    <Button
+        android:id="@+id/button_show_chart"
+        android:layout_width="330dp"
+        android:layout_height="35dp"
+        android:background="#00ff0000"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="22dp"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/listView_show_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="130dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+
+</LinearLayout>
