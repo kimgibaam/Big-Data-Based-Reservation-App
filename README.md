@@ -8,7 +8,8 @@
 
 ## How to use
 
-- Make your web server and Use my PHP scripts
+- Use Bitnami to open a web server and build a database
+- Put my PHP scripts into your web server
 - Run Python using the appropriate dataset(The data i used is 2018 Housing Consumption Factor in Korea)
 - Insert the output file into the PHP folder
 - Use android_studio sources
