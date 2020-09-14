@@ -13,6 +13,9 @@
 - Insert the output file into the PHP folder
 - Use android_studio sources
 
+![image](https://user-images.githubusercontent.com/53115254/93078314-3f58dd00-f6c5-11ea-91fb-7b1747a1d405.png)
+
+
 ---------------------------------------------------------------------------------------------------------
 
 ## This is my team's award-winning photograph
