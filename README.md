@@ -17,5 +17,6 @@
 
 ## This is my team's award-winning photograph
 
-![수상 기념사진](https://user-images.githubusercontent.com/53115254/93077989-a6c25d00-f6c4-11ea-9acd-cec2b3ae1b19.jpg)
+![수상 기념사진](https://user-images.githubusercontent.com/53115254/93078135-f012ac80-f6c4-11ea-8c26-1c2b829cb1fa.jpg)
+
 
